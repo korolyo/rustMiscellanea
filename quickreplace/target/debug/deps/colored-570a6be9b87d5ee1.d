@@ -1,0 +1,11 @@
+/Users/acollin/Desktop/acollin/Rust/programmingInRust/quickreplace/target/debug/deps/libcolored-570a6be9b87d5ee1.rmeta: /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/acollin/Desktop/acollin/Rust/programmingInRust/quickreplace/target/debug/deps/libcolored-570a6be9b87d5ee1.rlib: /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/acollin/Desktop/acollin/Rust/programmingInRust/quickreplace/target/debug/deps/colored-570a6be9b87d5ee1.d: /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs:
+/Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs:
+/Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs:
+/Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs:
+/Users/acollin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs:
